@@ -33,7 +33,7 @@ int main()
     }
     else
     {
-        cout << "Enter a valid operator please.";
+        cout << "Enter a valid operator please." << endl;
     }
 
     return 0;
