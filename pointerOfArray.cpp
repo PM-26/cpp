@@ -15,7 +15,7 @@ int main(){
     }
     for (int i=0;i<n;i++){
         cout<<i<<"->";
-        cout<<ptr[i]<<endl;
+        cout<<*ptr+i<<endl;
     }
 
     return 0;
